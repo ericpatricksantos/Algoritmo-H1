@@ -12,5 +12,5 @@ a precisão do clustering de H1 pode chegar a 100% sem considerar o fato de que 
 análise intencionalmente.
 
 # Referências BiBliográficas
-https://arxiv.org/ftp/arxiv/papers/2104/2104.09979.pdf
-https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9265226
+* https://arxiv.org/ftp/arxiv/papers/2104/2104.09979.pdf
+* https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9265226
